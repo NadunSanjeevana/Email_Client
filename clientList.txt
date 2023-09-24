@@ -1,0 +1,3 @@
+official:nimal,nimal@gmail.com,ceo
+personal:Lasandu Manujaya,nadunsanjeevana2001@gmail.com,brother,2005/08/14
+official_friend:amal,nadunsanjeevana2001@gmail.com,engineer,2001/01/18
