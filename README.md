@@ -7,8 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -33,7 +32,7 @@ Welcome to the Email Client project! This Java-based application allows you to s
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/NadunSanjeevana/email-client.git
+git clone https://github.com/NadunSanjeevana/Email-Client.git
 
 
 ## Usage
