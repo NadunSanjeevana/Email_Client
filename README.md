@@ -29,14 +29,12 @@ Welcome to the Email Client project! This Java-based application allows you to s
 - **Java:** The primary programming language for this project.
 - **[JavaMail API](https://javaee.github.io/javamail/):** Used for handling email operations.
 - **[Serialization](https://docs.oracle.com/javase/8/docs/technotes/guides/serialization/index.html):** Utilized to save and load sent emails.
-- **[Your Additional Libraries/Frameworks]:** Mention any other libraries or frameworks used in your project.
 
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/email-client.git
+git clone https://github.com/NadunSanjeevana/email-client.git
 
-2. [Additional Installation Steps if Required]
 
 ## Usage
 
